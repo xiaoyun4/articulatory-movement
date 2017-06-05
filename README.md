@@ -1,5 +1,5 @@
-# the-demo-of-icip
-The articulatory animation of the article 'A Realistic 3D Articulatory Animation System based on convolutional Neural Network'.
+# the-demo-of-articulatory-movements
+The articulatory animation of the article 'LTRCNN: Long-Term Recurrent Convolutional Neural Network for Articulatory Movement Prediction'.
 
 
 
